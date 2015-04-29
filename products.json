@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple",
+    "id": 1,
+    "product":"apple"
+  },
+  {
+    "name": "Asus",
+    "id": 2,
+    "product":"asus"
+  },
+  {
+    "name": "Samsung",
+    "id": 3,
+    "product":"android"
+  }
+]
